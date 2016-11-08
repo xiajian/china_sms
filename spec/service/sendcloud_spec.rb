@@ -2,8 +2,8 @@
 require 'spec_helper'
 
 describe "Sendcloud" do
-  let(:username) { 'postman' }
-  let(:password) { '6x9O7dQs9RDfp2dcUIFUXehRFk4CZvDl' }
+  let(:username) { 'user' }
+  let(:password) { 'xxxxtemrejmijfeijixwewe' }
 
   describe "#to" do
     let(:url) { 'http://www.sendcloud.net/smsapi/send' }
